@@ -1,8 +1,7 @@
-use csv; //Import csv crate
-use std::error::Error; //Handle error
-use std::fs::OpenOptions; //Lettura file
-use promptly::prompt; //Input utente
-// use std::io::Write;
+use csv;
+use std::error::Error; 
+use std::fs::OpenOptions; 
+use promptly::prompt;
 
 fn main() {
 
